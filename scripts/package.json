@@ -1,0 +1,14 @@
+{
+  "name": "@example/scripts",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "description": "统一管理当前 monorepo 项目内的可执行脚本",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}

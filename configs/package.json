@@ -1,0 +1,10 @@
+{
+  "name": "@example/configs",
+  "private": true,
+  "version": "0.0.0",
+  "description": "统一管理当前 monorepo 项目内的部分可扩展配置文件",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

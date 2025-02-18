@@ -1,0 +1,23 @@
+{
+  "name": "mini-vite",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "^22",
+    "pnpm": "^10"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "22",
+    "rimraf": "6.0.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.7.3"
+  },
+  "scripts": {
+    "package": "node scripts/package.js"
+  }
+}

@@ -1,0 +1,11 @@
+
+# Dependencies
+node_modules
+
+# VSCode
+.vscode/launch.json
+
+# Build output
+packages/**/dist
+packages/**/types
+packages/**/.tsbuildinfo
