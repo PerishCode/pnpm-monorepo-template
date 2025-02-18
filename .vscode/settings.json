@@ -2,6 +2,7 @@
   "files.exclude": {
     ".git": true,
     ".gitignore": true,
+    "**/.gitkeep": true,
     ".vscode": true,
     ".prettierrc.json": true,
     "pnpm-lock.yaml": true,
